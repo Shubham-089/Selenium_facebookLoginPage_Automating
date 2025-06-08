@@ -3,6 +3,8 @@
 This project automates the process of filling out the Facebook registration form using Selenium WebDriver. The script interacts with the form fields and submits the registration form.
 
 ## Requirements
+#images
+![Screenshot 2025-06-08 201356](https://github.com/user-attachments/assets/adc1c227-fcba-42e9-b6a9-8c7fbdfa5dd5)
 
 - Java JDK (minimum version 8)
 - Selenium WebDriver (add necessary libraries to your project)
